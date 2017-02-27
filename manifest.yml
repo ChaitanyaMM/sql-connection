@@ -1,5 +1,0 @@
----
-applications:
-  - name: chitapp
-    command: node sqlserver.js
-    buildpack: nodejs_buildpack
